@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     font-size: 1.6rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: #bfc2c3;
+    color: #fbf1c7;
     max-width: 72em;
     margin: auto;
     padding: 1em;
@@ -164,7 +164,7 @@ main#content #toc {
 
 main#content #toc h4 {
     font-size: 1.06em;
-    color: #3d3d3d;
+    color: #3c3836;
     margin: 0;
 }
 

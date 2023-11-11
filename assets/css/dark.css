@@ -2,12 +2,12 @@
 @media (prefers-color-scheme: dark) {
 {{ end -}}
 html {
-    scrollbar-color: #6c6c6c #2e2e2e;
+    scrollbar-color: #6c6c6c #1d2021;
 }
 
 body {
-    color: #edebeb;
-    background: rgb(22, 23, 29);
+    color: #fbf1c7;
+    background: #282828;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -30,7 +30,7 @@ main#content p {
 }
 
 main#content hr {
-    background: #c87373;
+    background: #fe8019;
 }
 
 main#content #toc h4 {
@@ -38,7 +38,7 @@ main#content #toc h4 {
 }
 
 main#content ul#posts small {
-    color: #a7a7a7;
+    color: #bdae93;
 }
 
 main#content ul#posts li a:hover {
@@ -46,7 +46,7 @@ main#content ul#posts li a:hover {
 }
 
 main#content header#post-header div {
-    color: rgb(102, 180, 211);
+    color: #83a598;
 }
 {{- if not (eq .Site.Params.dark "on") -}}
 }
