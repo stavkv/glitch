@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    color: #fbf1c7;
+    color: #c7ecfb;
     background: #282828;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -30,7 +30,7 @@ main#content p {
 }
 
 main#content hr {
-    background: #fe8019;
+    background: #fb8f37;
 }
 
 main#content #toc h4 {
@@ -38,7 +38,7 @@ main#content #toc h4 {
 }
 
 main#content ul#posts small {
-    color: #bdae93;
+    color: #cbcbca;
 }
 
 main#content ul#posts li a:hover {

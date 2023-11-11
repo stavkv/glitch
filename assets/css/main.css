@@ -10,7 +10,7 @@ body {
     font-size: 16px;
     font-size: 1.6rem;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: rgb(214, 237, 240);
+    color: rgb(201, 237, 242);
     max-width: 72em;
     margin: auto;
     padding: 1em;
@@ -60,7 +60,7 @@ header#banner nav ul li a {
 }
 
 main#content a {
-    color: rgb(143, 207, 180);
+    color: rgb(160, 203, 185);
     text-decoration: none;
 }
 
@@ -132,7 +132,7 @@ main#content ul#posts li a {
 }
 
 main#content ul#posts li a:hover {
-    color: rgb(200, 205, 165);
+    color: rgb(227, 230, 208);
 }
 
 main#content ul#posts li a:hover small {
