@@ -2,12 +2,12 @@
 @media (prefers-color-scheme: dark) {
 {{ end -}}
 html {
-    scrollbar-color: #6c6c6c #1d2021;
+    scrollbar-color: #acabab #1d2021;
 }
 
 body {
-    color: #c7ecfb;
-    background: #282828;
+    color: #f9f9f9;
+    background: #15181b;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -22,7 +22,7 @@ header#banner nav ul li a {
 }
 
 main#content a {
-    color: #00b1ed;
+    color: #f8fa8f;
 }
 
 main#content p {
@@ -42,7 +42,7 @@ main#content ul#posts small {
 }
 
 main#content ul#posts li a:hover {
-    color: #21c7ff;
+    color: #41f690;
 }
 
 main#content header#post-header div {
