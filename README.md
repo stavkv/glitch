@@ -2,7 +2,7 @@
 
 Made from [Etch](https://github.com/LukasJoswiak/etch)
 
-Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on writing. A live demo is available at https://heyvikki.github.io/glitch/.
+Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on writing. A live demo is available at https://vingh1.github.io/glitch/.
 
 
 
