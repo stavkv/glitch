@@ -20,7 +20,7 @@ Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on
 To install `glitch`, download the repository into the `themes` folder in the root of your site.
 
 ```
-$ git submodule add https://github.com/heyvikki/glitch.git themes/glitch
+$ git submodule add https://github.com/vingh1/glitch.git themes/glitch
 ```
 
 Then, use the theme to generate your site.
