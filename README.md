@@ -2,7 +2,7 @@
 
 Made from [Etch](https://github.com/LukasJoswiak/etch)
 
-Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on writing. A live demo is available at https://vikvss.github.io/glitch/.
+Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on writing. A live demo is available at https://vi4al.github.io/glitch/.
 
 
 
@@ -20,7 +20,7 @@ Etch is a simple, responsive theme for [Hugo](https://gohugo.io) with a focus on
 To install `glitch`, download the repository into the `themes` folder in the root of your site.
 
 ```
-$ git submodule add https://github.com/vikvss/glitch.git themes/glitch
+$ git submodule add https://github.com/vi4al/glitch.git themes/glitch
 ```
 
 Then, use the theme to generate your site.
