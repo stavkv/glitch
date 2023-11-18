@@ -1,7 +1,7 @@
 <header id="banner">
     <h2><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h2>
-    <nav class="nav-right">
-        <ul>
+    <nav class="nav" align="right">
+        <ul align="right">
             {{ range .Site.Menus.main.ByWeight -}}
             <li>
                 {{ .Pre }}<a  href="{{ .URL }}" title="{{ .Title }}">{{- .Name -}}</a>{{ .Post }}
