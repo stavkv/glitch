@@ -123,7 +123,7 @@ main#content ul#posts li {
 
 main#content ul#posts small {
     font-size: 0.8em;
-    color: #767676;
+    color: rgb(146, 78, 78);
     margin-left: 10px;
 }
 
@@ -151,11 +151,11 @@ main#content header#post-header h1 {
 main#content header#post-header > div {
     display: block;
     font-size: 0.85em;
-    color: #767676;
+    color: #dab4b4;
 }
 
 main#content #toc {
-    border: 1px solid #b1b1b1;
+    border: 1px solid #d7c9c9;
     border-radius: 1px;
     line-height: 26px;
     margin: 16px 0;
@@ -164,7 +164,7 @@ main#content #toc {
 
 main#content #toc h4 {
     font-size: 1.06em;
-    color: #3c3836;
+    color: #547278;
     margin: 0;
 }
 
@@ -279,4 +279,7 @@ footer#footer {
     font-weight: 400;
     color: rgb(213, 210, 210);
     margin: 40px 0;
+}
+.nav-right ul li, .nav-right ul {
+	float: right;
 }

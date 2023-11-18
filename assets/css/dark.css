@@ -2,7 +2,7 @@
 @media (prefers-color-scheme: dark) {
 {{ end -}}
 html {
-    scrollbar-color: #acabab #1d2021;
+    scrollbar-color: #6c6c6c #1d2021;
 }
 
 body {
